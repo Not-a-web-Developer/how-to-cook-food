@@ -15,9 +15,11 @@ now that that's out of the way, here's a list of the spices you'll always need t
  - Cumin Seeds
  - mustard Seeds
  - Cumin Powder
- - red 
+ - red chili powder
+ - asafetida
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTg1MzgzOSw0NDQ4NjAwMSwtMjEyND
-QyMDI1OF19
+eyJoaXN0b3J5IjpbLTE1ODUzNjAxMzcsNDQ0ODYwMDEsLTIxMj
+Q0MjAyNThdfQ==
 -->
