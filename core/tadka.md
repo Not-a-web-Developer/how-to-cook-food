@@ -9,10 +9,10 @@ We're gonna be tackling the south Indian style since it has a lot less variation
  - your spice-box (go to [the basics][1] if you don't know what goes in the spice-box)
  - split and dehusked black gram (called urad dal or उड़द दाल in hindi)
  - oil (you can use sunflower oil, groundnut oil, or basically any plant-based oil; however the flavour changes with the type of oil you use, so experiment with what oil tastes the best to you)
- - the utensil you're  gonna cook your food in (could be a sauté pan, a wok, or a kadhai or कढ़ाई in hindi), it basically has to look a bit like this: [a kadhai](/core/kadhai.png)
+ - the utensil you're  gonna cook your food in (could be a sauté pan, a wok, or a kadhai or कढ़ाई in hindi), it basically has to look a bit like this: [a kadhai](/core/kadhai-and-wok.jpg)
 
 [1]: /core/the-basics.md
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzUwNzldfQ==
+eyJoaXN0b3J5IjpbLTEwMTY4MzIyMDldfQ==
 -->
