@@ -2,7 +2,7 @@ Copyright © 2021, whatever my name is (newestideaz@gmail.com)
 
 This work is **free.** You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+as published by Sam Hocevar, except for certain images that come under the creative commons license family and have been properly attributed. See http://www.wtfpl.net/ for more details.
 
 ----------------------
 
@@ -23,3 +23,6 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMjQ4MzA2OV19
+-->
