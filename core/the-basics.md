@@ -23,9 +23,11 @@ These 7 spices allow you to make most Indian dishes, but they're not the end of 
 
 Recipes will mention any extra spices needed for food in their documents themselves.
 
-A good next step from here is learning how to use these spices to 
+A good next step from here is learning how to use these spices to make what we call the [tadka][1] (a mix of all the spices bloomed in oil, used to add flavour to food)
+
+[1]: /core/tadka.md
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4NTU4NTA2NDAsNDQ0ODYwMDEs
+BnZm1cbiIsImhpc3RvcnkiOls1NjI3NjUwNzcsNDQ0ODYwMDEs
 LTIxMjQ0MjAyNThdfQ==
 -->
