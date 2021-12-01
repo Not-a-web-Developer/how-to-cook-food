@@ -12,9 +12,9 @@ now that you know how to make a [tadka][1], you can make your grandma's mashed p
 2. depending on how big your potatoes are and what you're cooking it in, it should take anywhere from 20-40 minutes complete. once done, take them out and let them cool to a temperature where they won't burn your hands.
 3. once they're cool, you can peel them (peeling them after boiling is significantly easier than peeling them when raw) and either dice them or mash them depending on your preference (they'll go well with different dishes)
 4. prepare your tadka (steps in [here][1])m and once it's ready, add in half a teaspoon of turmeric powder and salt (to taste; I add in more than half a teaspoon but that's because I put too much salt in my food)
-5. stir it well, and add in your potatoes while you keep stirring it. in 3-4 minutes
+5. stir it well, and add in your potatoes while you keep stirring it. in 3-4 minutes, it should be 
 
 [1]: /core/tadka.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTcxMDU0MV19
+eyJoaXN0b3J5IjpbLTExMzc4MTkyNDRdfQ==
 -->
