@@ -11,7 +11,9 @@ you'll need to keep two things in mind before starting to use this loose collect
 
 now that that's out of the way, here's a list of the spices you'll always need to have in your "toolbox":
 
+ - Turmeric powder
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA0Mjc2MTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ0MjAyNThdfQ==
 -->
