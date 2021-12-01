@@ -23,8 +23,9 @@ These 7 spices allow you to make most Indian dishes, but they're not the end of 
 
 Recipes will mention any extra spices needed for food in their documents themselves.
 
+A good next step from here is learning how to use these spices to 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzE0MjIzNTI2LDQ0NDg2MDAx
-LC0yMTI0NDIwMjU4XX0=
+BnZm1cbiIsImhpc3RvcnkiOls4NTU4NTA2NDAsNDQ0ODYwMDEs
+LTIxMjQ0MjAyNThdfQ==
 -->
