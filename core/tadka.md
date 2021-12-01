@@ -9,11 +9,17 @@ We're gonna be tackling the south Indian style since it has a lot less variation
  - your spice-box (go to [the basics][1] if you don't know what goes in the spice-box)
  - split and dehusked black gram (called urad dal or उड़द दाल in hindi)
  - oil (you can use sunflower oil, groundnut oil, or basically any plant-based oil; however the flavour changes with the type of oil you use, so experiment with what oil tastes the best to you)
- - the utensil you're  gonna cook your food in (could be a sauté pan, a wok, or a kadhai or कढ़ाई in hindi), it basically has to look a bit like this: [a kadhai and a wok](/core/kadhai-and-wok.jpg)
+ - the utensil you're  gonna cook your food in (could be a sauté pan, a wok, or a kadhai or कढ़ाई in hindi), it basically has to look a bit like this: ![a kadhai and a wok](/core/kadhai-and-wok.jpg) I use a kadhai since that's what I have at home.
+ - a cooking stove like a gas-fired stove or an induction stove (duh)
+
+### Steps:
+
+ 1. light up the stove and keep the kadhai on it; pour in more than a tablespoon of oil (how much more depends on the amount of food you wanna make) and let it heat until it's just about to start smoking (if it starts smoking, you need to slow down the heat since it's gotten too hot) (I'll add images to show what it's supposed to look like later on, if I haven't done so yet you can open up an issue and ping me to death)
+ 2. 
+
 
 [1]: /core/the-basics.md
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2NDk2MzgsLTEwMTY4MzIyMDldfQ
-==
+eyJoaXN0b3J5IjpbOTY0MTA5NDk5LC0xMDE2ODMyMjA5XX0=
 -->
