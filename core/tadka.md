@@ -16,11 +16,12 @@ We're gonna be tackling the south Indian style since it has a lot less variation
 ### Steps:
 
  1. light up the stove and keep the kadhai on it; pour in more than a tablespoon of oil (how much more depends on the amount of food you wanna make) and let it heat until it's just about to start smoking (if it starts smoking, you need to slow down the heat since it's gotten too hot) (I'll add images to show what it's supposed to look like later on, if I haven't done so yet you can open up an issue and ping me to death)
- 2. 
+ 2. add half a teaspoon of mustard seeds; they should start crackling as soon as they hit the oil (if they don't, the oil is too cool and you need to wait for it to heat up more)
+ 3. when the cracking 
 
 
 [1]: /core/the-basics.md
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODA4NzkxOCwtMTAxNjgzMjIwOV19
+eyJoaXN0b3J5IjpbLTk3Mzk2ODY2NywtMTAxNjgzMjIwOV19
 -->
