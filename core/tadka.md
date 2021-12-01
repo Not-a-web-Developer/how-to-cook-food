@@ -16,12 +16,20 @@ We're gonna be tackling the south Indian style since it has a lot less variation
 ### Steps:
 
  1. light up the stove and keep the kadhai on it; pour in more than a tablespoon of oil (how much more depends on the amount of food you wanna make) and let it heat until it's just about to start smoking (if it starts smoking, you need to slow down the heat since it's gotten too hot) (I'll add images to show what it's supposed to look like later on, if I haven't done so yet you can open up an issue and ping me to death)
+
  2. add half a teaspoon of mustard seeds; they should start crackling as soon as they hit the oil (if they don't, the oil is too cool and you need to wait for it to heat up more)
- 3. when the cracking 
+ 
+ 3. when the cracking seems to slow down (should happen in about 10-15 seconds), add in finely chopped green chili and curry leaves (leaves from the tree [_Murraya koenigii_][2]), the amounts of both being dependent on personal preference (how many leaves to be put in is harder to decide, so a good guide is add in 2-3 leaves per intended serving, meaning if you're making it for 4 people you need to add about 10-12 leaves)
+ 
+
+#### note:
+the oil will make a lot of noise and may splash out, so take care any hot droplets don't hit you and burn your skin.
+
+4. 
 
 
 [1]: /core/the-basics.md
-
+[2]: https://en.wikipedia.org/wiki/Curry_tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzk2ODY2NywtMTAxNjgzMjIwOV19
+eyJoaXN0b3J5IjpbMTExMDAxNDAyLC0xMDE2ODMyMjA5XX0=
 -->
