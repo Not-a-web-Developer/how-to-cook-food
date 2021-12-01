@@ -25,12 +25,15 @@ We're gonna be tackling the south Indian style since it has a lot less variation
 #### note:
 the oil will make a lot of noise and may splash out, so take care any hot droplets don't hit you and burn your skin.
 
-4. use a spatula to gently but continuously stir the mixture. once the crackling slows down (will take slightly longer than last time), add in 
+4. use a spatula to gently but continuously stir the mixture. once the crackling slows down (will take slightly longer than last time), add in finely chopped onions and sauté them until they turn golden.
+
+with this, you have a basic south-indian style tadka ready, and you can move on to [the next document][3] to make something you can actually eat. 
 
 [^1]: By FiveRings at en.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17270657
 
 [1]: /core/the-basics.md
 [2]: https://en.wikipedia.org/wiki/Curry_tree
+[3]: /core/supercharged-potatoes.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDQ5MjYyMiwtMTAxNjgzMjIwOV19
+eyJoaXN0b3J5IjpbMTU2NjU4ODcyNywtMTAxNjgzMjIwOV19
 -->
