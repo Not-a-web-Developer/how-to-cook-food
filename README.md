@@ -6,8 +6,11 @@ It's what it says on the tin: a collection of all cooking-related information th
 
 ## Cool! How do I get started?
 
-There isn't a "contents" table yet, so you'll have to manually navigate through the folders to fin what you want (i'm gonna name all the folders appropriately though, so it shouldn't be as much of a nightmare as you think.)
+There isn't a "contents" table yet, so you'll have to manually navigate through the folders to find what you want (i'm gonna name all the folders appropriately though, so it shouldn't be as much of a nightmare as you think.)
 
 that said, a good place i recommend you to start is [the basics][1].
 
 [1]: /core/the-basics.md
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1OTM2ODIxNTFdfQ==
+-->
