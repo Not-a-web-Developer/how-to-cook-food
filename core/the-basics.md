@@ -17,9 +17,14 @@ now that that's out of the way, here's a list of the spices you'll always need t
  - Cumin Powder
  - red chili powder
  - asafetida
- - 
+ - fenugreek seeds
+
+These 7 spices allow you to make most Indian dishes, but they're not the end of the spice train; they're just the beginning.
+
+Recipes will mention any extra spices needed for food in their documents themselves.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzNjAxMzcsNDQ0ODYwMDEsLTIxMj
-Q0MjAyNThdfQ==
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+BnZm1cbiIsImhpc3RvcnkiOlsxMzE0MjIzNTI2LDQ0NDg2MDAx
+LC0yMTI0NDIwMjU4XX0=
 -->
