@@ -14,7 +14,7 @@ now that that's out of the way, here's a list of the spices you'll always need t
  - Turmeric powder
  - Cumin Seeds
  - mustard Seeds
- - Cumin Powder
+ - powdered coriander seeds
  - red chili powder
  - asafetida
  - fenugreek seeds
