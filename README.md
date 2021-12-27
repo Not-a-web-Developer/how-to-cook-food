@@ -11,6 +11,3 @@ There isn't a "contents" table yet, so you'll have to manually navigate through 
 that said, a good place i recommend you to start is [the basics][1].
 
 [1]: /core/the-basics.md
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM2ODIxNTFdfQ==
--->
